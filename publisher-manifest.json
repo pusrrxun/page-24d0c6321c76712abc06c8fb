@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "52053adec446dac04e02bd3a",
+  "owner": "pusrrxun",
+  "repo": "page-24d0c6321c76712abc06c8fb",
+  "title": "私密小站",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "24d0c6321c76712abc06c8fb",
+      "a": "私密小站",
+      "b": "2027官方最新地址导航",
+      "entity": "私密小站",
+      "brand": "私密小站",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2c756e14b9234d4660249e043942cb3619559855ed6969d84b2a6d5ad870597b",
+      "content": {
+        "primary_entity": "私密小站",
+        "keyword1": "私密小站",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要稳定海外网络环境的用户提供多档位加速订阅，覆盖基础流媒体、原生解锁与专线游戏加速等场景，支持按年付费进一步降低月均成本。",
+          "AI_HERO_SUBTITLE": "私密小站，稳定加速之选",
+          "AI_HERO_INTRO": "私密小站为海外加速需求提供清晰的订阅方案与客户端配置路径，套餐按流量、设备数与线路类型区分，便于根据使用规模选择。",
+          "AI_VISUAL_TITLE": "私密小站加速方案",
+          "AI_HIGHLIGHT_1": "套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "支持多平台客户端配置",
+          "AI_HIGHLIGHT_3": "按年付费更划算",
+          "AI_FEATURES_INTRO": "从设备数量、流量大小与线路类型三个角度选择适合的订阅方案。",
+          "AI_FEATURES_TITLE": "选择私密小站的理由",
+          "AI_FEATURE_TITLE_1": "按设备数量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，多设备用户可优先考虑高一级套餐。",
+          "AI_FEATURE_TITLE_2": "按流量需求选档位",
+          "AI_FEATURE_TEXT_2": "每月100GB适合轻度使用，300GB覆盖日常流媒体与办公，1000GB满足团队高频访问。",
+          "AI_FEATURE_TITLE_3": "按年付费更划算",
+          "AI_FEATURE_TEXT_3": "基础版年付150元，旗舰版年付350元，团队版年付850元，长期使用建议直接选择年付。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据不同设备选择对应客户端，并参考其订阅配置文档完成导入。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版15元/月，旗舰版35元/月，团队版85元/月，对比流量、设备数与线路权益后选择。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确认设备与流量需求，再选择套餐并配置客户端订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量消耗，在基础版、旗舰版与团队版之间确定订阅档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对设备系统版本与客户端支持情况，确认订阅周期和同时在线设备数符合使用习惯。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "打开对应客户端，按照其文档指引导入订阅信息，完成后即可开始使用。",
+          "AI_FAQ_INTRO": "套餐选择、设备限制与订阅导入。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定加速",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线；团队版每月 1000GB、支持 20 台设备，可按人数与流量挑选。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。若多人共用或设备较多，建议选团队版，避免频繁切换登录。",
+          "AI_FAQ_ANSWER_3": "可以。基础版按年付 ¥150、旗舰版按年付 ¥350、团队版按年付 ¥850，相比月付可节省约两个月费用，适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_4": "在发布页确认线路状态后，复制订阅链接，打开对应客户端选择从剪贴板导入或手动添加订阅，保存后更新节点列表即可连接使用。",
+          "AI_FAQ_ANSWER_5": "可以。私密小站的订阅链接支持手机、电脑与路由器等客户端导入，同一账号下按套餐允许的设备数量在线，更换设备时退出旧设备再登录即可。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "每个套餐最多可以同时在线几台设备？",
+          "AI_FAQ_QUESTION_3": "按年付会比按月付更划算吗？",
+          "AI_FAQ_QUESTION_4": "拿到订阅链接后怎么导入客户端？",
+          "AI_FAQ_QUESTION_5": "可以在手机和电脑上同时使用同一个订阅吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "pdrjw.cn",
+    "host": "pdrjw.cn"
+  },
+  "file_hashes": {
+    "index.html": "b213430dacd018cdb6abea1e2c226d09e1b8cfd5f75e46f70a4581f074c52ccb",
+    "sitemap.xml": "51f1a552c1d370e65acc5ec9adf2bb4230d28fb02392130d46db03ca44fdb418",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d848d0c8c6c70378391d57e2f3093a4064c3cc75049573a9326dcaa631db58ac",
+    "robots.txt": "45ae5f6c976aa64eb9aa9b5fee5a633c9af4fa087d9a351ee16038329e47c3d6",
+    "937c1101baa4064369077a7f0e34cbd7.txt": "83464cdc22d1f67e98be1824b5a6be121b4277948269b4351b91484ba007aee6"
+  },
+  "revision": "4d924f42515b289472b69cecabe9fdc0002d25f560c41c059345fe91748603c6"
+}
